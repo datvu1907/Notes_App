@@ -41,6 +41,7 @@ const palette = {
 
   popout1: "#C724E1",
   popout2: "#4E22CC",
+  background: "#1C0B37",
 } as const
 
 export const colors = {
@@ -65,7 +66,7 @@ export const colors = {
   /**
    * The default color of the screen background.
    */
-  background: palette.neutral200,
+  background: palette.background,
   /**
    * The default border color.
    */
