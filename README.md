@@ -14,15 +14,16 @@ A modern note-taking application built with React Native and Expo, featuring a b
 ## Screenshots
 
 ### Home Screen
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-10 at 14 42 02](https://github.com/user-attachments/assets/2c818126-8698-4040-82b2-3c89a3dd04fd)
+![Simulator Screenshot - iPhone 16 Pro - 2025-05-10 at 14 42 02](https://github.com/user-attachments/assets/3c6ffe16-4cf1-4463-8eb5-b93e09f0bd84)
 *View all your notes organized by categories*
 
 ### Add Note Screen
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-10 at 14 42 05](https://github.com/user-attachments/assets/67953719-07df-4eff-849a-de03f16f813b)
+![Simulator Screenshot - iPhone 16 Pro - 2025-05-10 at 14 42 05](https://github.com/user-attachments/assets/511bfa57-b680-473d-87a1-0bcf531699e0)
 *Create new notes with category selection*
 
 ### Summary Screen
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-10 at 14 42 08](https://github.com/user-attachments/assets/2ecf9b3d-0d9b-4fcd-b7e5-5041506241ff)
+![Simulator Screenshot - iPhone 16 Pro - 2025-05-10 at 14 42 08](https://github.com/user-attachments/assets/66aac4ee-c0b1-4b74-b7c8-694e0e732a8f)
+
 *Get an overview of your notes by category*
 
 ## Getting Started
